@@ -1,0 +1,6 @@
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Models\bin\Debug\TestMVC.Models.dll
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Models\bin\Debug\TestMVC.Models.pdb
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Models\obj\Debug\TestMVC.Models.csprojAssemblyReference.cache
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Models\obj\Debug\TestMVC.Models.csproj.CoreCompileInputs.cache
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Models\obj\Debug\TestMVC.Models.dll
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Models\obj\Debug\TestMVC.Models.pdb

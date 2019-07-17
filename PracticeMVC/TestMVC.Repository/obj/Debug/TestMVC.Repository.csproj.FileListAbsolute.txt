@@ -1,0 +1,17 @@
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Repository\bin\Debug\TestMVC.Repository.dll.config
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Repository\bin\Debug\TestMVC.Repository.dll
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Repository\bin\Debug\TestMVC.Repository.pdb
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Repository\bin\Debug\EntityFramework.dll
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Repository\bin\Debug\EntityFramework.SqlServer.dll
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Repository\bin\Debug\TestMVC.DatabaseContext.dll
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Repository\bin\Debug\TestMVC.Models.dll
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Repository\bin\Debug\TestMVC.DatabaseContext.pdb
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Repository\bin\Debug\TestMVC.DatabaseContext.dll.config
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Repository\bin\Debug\TestMVC.Models.pdb
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Repository\bin\Debug\EntityFramework.xml
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Repository\bin\Debug\EntityFramework.SqlServer.xml
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Repository\obj\Debug\TestMVC.Repository.csprojAssemblyReference.cache
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Repository\obj\Debug\TestMVC.Repository.csproj.CoreCompileInputs.cache
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Repository\obj\Debug\TestMVC.Repository.csproj.CopyComplete
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Repository\obj\Debug\TestMVC.Repository.dll
+H:\Course\SEIP\Day22\Day22\TestMVC\TestMVC.Repository\obj\Debug\TestMVC.Repository.pdb
