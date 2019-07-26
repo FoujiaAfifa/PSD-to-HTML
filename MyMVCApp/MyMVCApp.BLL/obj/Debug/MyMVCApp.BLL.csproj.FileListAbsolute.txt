@@ -1,0 +1,62 @@
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.BLL.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.BLL.pdb
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Repository.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Repository.pdb
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.csprojAssemblyReference.cache
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.csproj.CoreCompileInputs.cache
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.csproj.CopyComplete
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.dll
+C:\Phase 2\Comm\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.pdb
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.BLL.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.BLL.pdb
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Repository.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.BLL\bin\Debug\EntityFramework.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Repository.pdb
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Repository.dll.config
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.DatabaseContext.dll.config
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.BLL\bin\Debug\EntityFramework.xml
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.csprojAssemblyReference.cache
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.csproj.CopyComplete
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.dll
+C:\Phase 2\Batch 4\Day22\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.pdb
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.BLL.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.BLL.pdb
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Models.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Repository.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.DatabaseContext.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\EntityFramework.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Models.pdb
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Repository.pdb
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Repository.dll.config
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.DatabaseContext.pdb
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.DatabaseContext.dll.config
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\EntityFramework.xml
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.csprojAssemblyReference.cache
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.csproj.CopyComplete
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.dll
+C:\Phase 2\Batch 3\Day26\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.pdb
+D:\batch3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.BLL.dll
+D:\batch3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.BLL.pdb
+D:\batch3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Models.dll
+D:\batch3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Repository.dll
+D:\batch3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.DatabaseContext.dll
+D:\batch3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\EntityFramework.dll
+D:\batch3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Models.pdb
+D:\batch3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Repository.pdb
+D:\batch3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.Repository.dll.config
+D:\batch3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.DatabaseContext.pdb
+D:\batch3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\MyMVCApp.DatabaseContext.dll.config
+D:\batch3\Day26\MyMVCApp\MyMVCApp.BLL\bin\Debug\EntityFramework.xml
+D:\batch3\Day26\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.csprojAssemblyReference.cache
+D:\batch3\Day26\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.csproj.CoreCompileInputs.cache
+D:\batch3\Day26\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.csproj.CopyComplete
+D:\batch3\Day26\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.dll
+D:\batch3\Day26\MyMVCApp\MyMVCApp.BLL\obj\Debug\MyMVCApp.BLL.pdb

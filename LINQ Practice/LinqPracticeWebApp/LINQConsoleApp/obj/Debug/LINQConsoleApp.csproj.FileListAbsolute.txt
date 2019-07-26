@@ -1,0 +1,7 @@
+H:\Course\SEIP\Practice\Projects\LINQ Practice\LinqPracticeWebApp\LINQConsoleApp\bin\Debug\LINQConsoleApp.exe.config
+H:\Course\SEIP\Practice\Projects\LINQ Practice\LinqPracticeWebApp\LINQConsoleApp\bin\Debug\LINQConsoleApp.exe
+H:\Course\SEIP\Practice\Projects\LINQ Practice\LinqPracticeWebApp\LINQConsoleApp\bin\Debug\LINQConsoleApp.pdb
+H:\Course\SEIP\Practice\Projects\LINQ Practice\LinqPracticeWebApp\LINQConsoleApp\obj\Debug\LINQConsoleApp.csprojAssemblyReference.cache
+H:\Course\SEIP\Practice\Projects\LINQ Practice\LinqPracticeWebApp\LINQConsoleApp\obj\Debug\LINQConsoleApp.csproj.CoreCompileInputs.cache
+H:\Course\SEIP\Practice\Projects\LINQ Practice\LinqPracticeWebApp\LINQConsoleApp\obj\Debug\LINQConsoleApp.exe
+H:\Course\SEIP\Practice\Projects\LINQ Practice\LinqPracticeWebApp\LINQConsoleApp\obj\Debug\LINQConsoleApp.pdb
