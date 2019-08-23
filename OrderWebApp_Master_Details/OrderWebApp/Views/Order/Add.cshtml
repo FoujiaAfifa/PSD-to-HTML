@@ -1,0 +1,191 @@
+﻿@model OrderWebApp.Models.Models.Order
+@{
+    ViewBag.Title = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("Add", "Order", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+
+
+    <div>
+
+        <div class="form-horizontal">
+            <div class="form-group">
+                @Html.LabelFor(c => c.MemberID, null, new { @class = "control-label col-md-3" })
+
+
+                <div class="col-md-8">
+                    @Html.DropDownListFor(c => c.MemberID, Model.MemberList, "--Select---", new { onchange = "Action(this.value);", @class = "form-control" })
+
+
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-md-3"> Name </label>
+
+                <div class="col-md-8">
+
+                    @Html.TextBoxFor(c => c.Member.Name, null, new { @class = "form-control" })
+
+                    @*<input type="text" id="txtMembertDescription" />*@
+
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label col-md-3"> Email </label>
+
+                <div class="col-md-8">
+                    @Html.TextBoxFor(c => c.Member.Email, null, new { @class = "form-control" })
+
+                    @*<input type="text" id="emailMembertDescription" />*@
+
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-md-3"> Contact No </label>
+
+                <div class="col-md-8">
+                    @Html.TextBoxFor(c => c.Member.Contact, null, new { @class = "form-control" })
+
+        
+
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <label class="control-label col-md-3"> Type </label>
+
+                <div class="col-md-8">
+                    @Html.TextBoxFor(c => c.Member.MemberType.ID, null, new { @class = "form-control" })
+
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <label class="control-label col-md-3"> Food Item </label>
+
+                <div class="col-md-8">
+                    @*@Html.DropDownListFor(c => c.FoodID, Model.FoodList, "--Select---", new { @class = "form-control" })*@
+
+                    <select name="drpProducts" id="drpProducts">
+                        @{
+                            foreach (var product in ViewBag.FoodList)
+                            {
+                                <option value="@product.ID"
+                                        data-desc="@product.UnitPrice">
+                                    @product.FoodName
+                                </option>
+                            }
+                        }
+                    </select>
+
+
+
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-md-3"> Unit Price </label>
+
+                <div class="col-md-8">
+                    @Html.TextBoxFor(c => c.Food.UnitPrice, null, new { @class = "form-control" })
+
+                    @*<input type="text" id="emailMembertDescription" />*@
+
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <label class="control-label col-md-3"> Quantity </label>
+
+                <div class="col-md-8">
+                    @Html.TextBoxFor(c => c.Qunatity, null, new { @class = "form-control" })
+
+                    @*<input type="text" id="emailMembertDescription" />*@
+
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-md-3"> Unit Price </label>
+
+                <div class="col-md-8">
+                    @Html.TextBoxFor(c => c.Date, null, new { @class = "form-control" })
+
+                    @*<input type="text" id="emailMembertDescription" />*@
+
+                </div>
+            </div>
+
+            <div class="col-lg-8 ">
+                <input type="submit" class="btn btn-success" value="Save" />
+            </div>
+
+        </div>
+    </div>
+
+}
+
+@*@section Scripts{
+
+    <script src="~/Scripts/Order/MemberDropdown.js"></script>
+
+}*@
+
+    <script type="text/javascript">
+    function Action(id) {
+        $.ajax({
+            url: '@Url.Action("GetByID", "Order")',
+            type: "POST",
+            data: { "id": id },
+            "success": function (data) {
+                if (data != null) {
+                    var vdata = data;
+                    $("#Member_Name").val(vdata[0].Name);
+                    $("#Member_Email").val(vdata[0].Email);
+                    $("#Member_Contact").val(vdata[0].Contact);
+                    $("#Member_MemberType_ID").val(vdata[0].MemberType.ID);
+                }
+            }
+        });
+        }
+
+    </script>
+
+@*<script type="text/javascript">
+    function Action(id) {
+    $.ajax({
+        url: '@Url.Action("GetByFoodID", "Order")',
+        type: "POST",
+        data: { "id": id },
+        "success": function (data) {
+            if (data != null) {
+                var vdata = data;
+                $("#Food_UnitPrice").val(vdata[0].UnitPrice);
+  
+            }
+        }
+    });
+}
+</script>*@
+
+
+    <script>
+        $(document).ready(function () {
+
+            $("#drpProducts").change(function () {
+
+                var selectedItemDesc = $("#drpProducts option:selected").attr("data-desc");
+                $("#Food_UnitPrice").val(selectedItemDesc);
+
+            });
+
+        });
+    </script>
+
+ 
