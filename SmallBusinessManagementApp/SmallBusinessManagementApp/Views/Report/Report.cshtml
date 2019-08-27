@@ -1,0 +1,72 @@
+﻿@model List<SmallBusinessManagementApp.Models.Models.Report>
+@{
+    ViewBag.Title = "Report";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Report Purchase</h2>
+
+
+<div>
+
+    @using (Html.BeginForm("Report", "Report", FormMethod.Post))
+    {
+
+        <div class="form-group">
+            <label class="control-label col-md-2" for="CreatedOn">Start Date</label>
+            <div class="col-md-10">
+                @Html.TextBox("startdate", null, new { @class = "form-control col-md-4 datepicker" })
+
+
+            </div>
+        </div>
+        <br /><br />
+        <div class="form-group">
+            <label class="control-label col-md-2" for="CreatedOn">End Date</label>
+            <div class="col-md-10">
+                @Html.TextBox("enddate", null, new { @class = "form-control col-md-4 datepicker2" })
+
+
+            </div>
+        </div>
+
+
+
+        <input type="submit" value="Apply" />
+
+    }
+
+</div>
+
+@if (Model != null && Model.Count > 0)
+{
+    var sl = 1;
+    <table class="table table-bordered table-striped">
+        <tr>
+            <th>Sl</th>
+            <th>Code</th>
+            <th>Name</th>
+            <th>Category</th>
+            <th>CP</th>
+            <th>MRP</th>
+            <th>Profit</th>
+        </tr>
+        @foreach (var customer in Model)
+        {
+
+            <tr>
+                <td>@(sl++)</td>
+               
+                <td>@customer.Code</td>
+                <td>@customer.Name</td>
+                <td>@customer.Category</td>
+                <td>@customer.CP</td>
+                <td>@customer.MRP</td>
+                <td>@customer.Profit</td>
+
+            </tr>
+        }
+    </table>
+
+
+}
