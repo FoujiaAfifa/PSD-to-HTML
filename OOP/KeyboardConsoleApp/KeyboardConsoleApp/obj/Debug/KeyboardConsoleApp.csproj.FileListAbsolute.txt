@@ -1,7 +1,0 @@
-C:\Users\User\source\repos\KeyboardConsoleApp\KeyboardConsoleApp\bin\Debug\KeyboardConsoleApp.exe.config
-C:\Users\User\source\repos\KeyboardConsoleApp\KeyboardConsoleApp\bin\Debug\KeyboardConsoleApp.exe
-C:\Users\User\source\repos\KeyboardConsoleApp\KeyboardConsoleApp\bin\Debug\KeyboardConsoleApp.pdb
-C:\Users\User\source\repos\KeyboardConsoleApp\KeyboardConsoleApp\obj\Debug\KeyboardConsoleApp.csprojAssemblyReference.cache
-C:\Users\User\source\repos\KeyboardConsoleApp\KeyboardConsoleApp\obj\Debug\KeyboardConsoleApp.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\KeyboardConsoleApp\KeyboardConsoleApp\obj\Debug\KeyboardConsoleApp.exe
-C:\Users\User\source\repos\KeyboardConsoleApp\KeyboardConsoleApp\obj\Debug\KeyboardConsoleApp.pdb

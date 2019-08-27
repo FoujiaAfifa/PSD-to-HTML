@@ -1,6 +1,0 @@
-H:\Course\SEIP\Practice\Projects\WinFormAppBootstrap\Models\bin\Debug\Models.dll
-H:\Course\SEIP\Practice\Projects\WinFormAppBootstrap\Models\bin\Debug\Models.pdb
-H:\Course\SEIP\Practice\Projects\WinFormAppBootstrap\Models\obj\Debug\WebFormApp.Models.csprojAssemblyReference.cache
-H:\Course\SEIP\Practice\Projects\WinFormAppBootstrap\Models\obj\Debug\WebFormApp.Models.csproj.CoreCompileInputs.cache
-H:\Course\SEIP\Practice\Projects\WinFormAppBootstrap\Models\obj\Debug\Models.dll
-H:\Course\SEIP\Practice\Projects\WinFormAppBootstrap\Models\obj\Debug\Models.pdb

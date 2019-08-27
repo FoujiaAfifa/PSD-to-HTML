@@ -1,9 +1,0 @@
-H:\Course\SEIP\Practice\Projects\WinFormAppBootstrap\WebFormApp.DAL\bin\Debug\WebFormApp.DAL.dll
-H:\Course\SEIP\Practice\Projects\WinFormAppBootstrap\WebFormApp.DAL\bin\Debug\WebFormApp.DAL.pdb
-H:\Course\SEIP\Practice\Projects\WinFormAppBootstrap\WebFormApp.DAL\bin\Debug\Models.dll
-H:\Course\SEIP\Practice\Projects\WinFormAppBootstrap\WebFormApp.DAL\bin\Debug\Models.pdb
-H:\Course\SEIP\Practice\Projects\WinFormAppBootstrap\WebFormApp.DAL\obj\Debug\WebFormApp.DAL.csprojAssemblyReference.cache
-H:\Course\SEIP\Practice\Projects\WinFormAppBootstrap\WebFormApp.DAL\obj\Debug\WebFormApp.DAL.csproj.CoreCompileInputs.cache
-H:\Course\SEIP\Practice\Projects\WinFormAppBootstrap\WebFormApp.DAL\obj\Debug\WebFormApp.DAL.csproj.CopyComplete
-H:\Course\SEIP\Practice\Projects\WinFormAppBootstrap\WebFormApp.DAL\obj\Debug\WebFormApp.DAL.dll
-H:\Course\SEIP\Practice\Projects\WinFormAppBootstrap\WebFormApp.DAL\obj\Debug\WebFormApp.DAL.pdb
